@@ -2,7 +2,7 @@
 
 **Tier:** 1-Beginner
 
-Display multiple images using a slider / carousel.
+Display multiple images using a slider or carousel.
 
 ## User Stories
 
