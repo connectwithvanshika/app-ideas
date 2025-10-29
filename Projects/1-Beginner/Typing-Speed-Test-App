@@ -4,7 +4,7 @@
 
 Typing speed tests are a fun and interactive way to measure how fast and accurately you can type.  
 In this project, you'll build a simple **Typing Speed Test App** that displays a random passage for the user to type within a limited time.  
-Once the timer runs out (or the user finishes typing), the app calculates and displays their **typing speed (WPM)** and **accuracy (%).**
+Once the timer runs out, or the user finishes typing, the app calculates and displays their typing speed (WPM) and accuracy (%).
 
 This project will help you understand **real-time input handling**, **timing events**, and **DOM manipulation** — essential skills for building interactive web apps.  
 
@@ -15,7 +15,7 @@ This project will help you understand **real-time input handling**, **timing eve
 - **Live Accuracy Check** – Incorrect letters are highlighted instantly.  
 - **Performance Stats** – Get detailed results including Words Per Minute (WPM) and Accuracy (%).  
 - **Restart Option** – Take the test again with a new random passage.  
-- **No External Libraries** – All calculations implemented manually.
+- **No External Libraries** – All calculations are implemented manually.
 
 
 ## User Stories
@@ -42,7 +42,7 @@ This project will help you understand **real-time input handling**, **timing eve
 ## Constraints
 
 - Do not use any third-party libraries for typing speed or accuracy calculations.  
-- Use only front-end technologies like **HTML**, **CSS**, and **JavaScript** (or React if preferred).  
+- Use only front-end technologies such as **HTML**, **CSS**, and **JavaScript** (or React if preferred).  
 
 
 ## How to Calculate WPM
